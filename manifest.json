@@ -32,7 +32,7 @@
         "Binaries/bin/gui/js/splash.js": "ca944b498623059e84c2d436096710e756029796028e114c03327f65195e3c8a",
         "Binaries/bin/gui/main.html": "ca1cce5f248d9724e9c5cce5c467dd6749000f16194dedd4e622467df84b138a",
         "Binaries/bin/gui/splash.html": "c022475cd1d5648c6aaa4d80cc4205c5aa67e6e3de6f3505e997236ed38c1d3e",
-        "Binaries/bin/index-cli.js": "2cf7e29f51a1f6192c22602af3028849f10e6a39f37e2931a119ca44321c909b",
+        "Binaries/bin/index-cli.js": "88b0e5a15b3e813c764cac60bea41f220ed47473273ae5197b0bb12c29573d82",
         "Binaries/bin/index-gui.js": "76a5a477b4fcd1f3f834b4e0cf5e16d94ecdd8365c7c21ad6362c586a7701eeb",
         "Binaries/bin/install-electron.js": "17b03f96f54dccb40eaba88b9ab21c14609eac91cb378ff0883b65b0078f105b",
         "Binaries/bin/loader-cli.js": "bfad61b66a0d9e21b8b06a2f29be24144f81edb65a0a9d23b86733b5f5653c1c",
