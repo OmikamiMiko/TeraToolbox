@@ -1,0 +1,44 @@
+int64 GameId
+angle w
+int16 Unused
+float Scale
+vec3 loc
+int32 Stand # 1 PvE & 2 PvP
+int32 SocialId
+int32 TemplateId
+int32 WeaponItemTemplateId
+int32 WeaponEnchantItemCount
+int32 BodyItemTemplateId
+int32 HandItemTemplateId
+int32 FeetTemplateId
+int32 UnderwearItemTemplateId
+int32 HairAccessoryItemTemplateId
+int32 FaceAccessoryItemTemplateId
+int32 HairStyleItemTemplateId
+int32 FaceStyleItemTemplateId
+int32 BackStyleItemTemplateId
+int32 WeaponStyleItemTemplateId
+int32 BodyStyleItemTemplateId
+int32 ExternalItemTemplateIdWeapon # 0
+int32 ExternalItemTemplateIdBody   # 0
+int32 ExternalItemTemplateIdHand   # 0
+int32 ExternalItemTemplateIdFeet   # 0
+int32 ColoringValueWeapon 		   # 0
+int32 ColoringValueBody			   # 0
+int32 ColoringValueHand            # 0
+int32 ColoringValueFeet            # 0
+int32 ColoringValueUnderwear       # 0
+int32 ColoringValueStyleBack       # 0
+int32 ColoringValueStyleHair       # 0
+int32 ColoringValueStyleFace       # 0
+int32 ColoringValueStyleBody       # 0
+float     styleHeadScale
+vec3fa    styleHeadRotation
+vec3      styleHeadTranslation
+vec3      styleHeadTranslationDebug
+int32 unk1
+int32 unk2
+customize Customization
+string UserName
+bytes unkBytes1
+bytes unkBytes2

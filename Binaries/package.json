@@ -1,0 +1,26 @@
+{
+  "name": "tera-toolbox",
+  "version": "1.0.0",
+  "description": "Comprehensive modding framework for TERA.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmikamiMiko/TeraToolbox.git"
+  },
+  "author": "Caali/ Kygas",
+  "contributors": [
+    "Pinkie Pie",
+    "meishu",
+    "Miko"
+  ],
+  "engines": {
+    "node": ">=11.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/OmikamiMiko/TeraToolbox/issues"
+  },
+  "homepage": "https://github.com/OmikamiMiko/TeraToolbox/tree/main/Binaries#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "binary-search": "^1.3.6"
+  }
+}
