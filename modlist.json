@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "disableAutoUpdate": false,
+        "name": "ABB",
+        "author": "KYGAS / Maintainer Miko",
+        "description": "A tera-proxy module that prevents you from getting body blocked by pt.",
+        "version": "1.2.6",
+        "options": {
+            "niceName": "Anti Body Block",
+            "guiName": "ABB"
+        },
+        "servers": ["https://raw.githubusercontent.com/OmikamiMiko/AntiBodyBlock/main/"],
+        "supportUrl": "https://github.com/OmikamiMiko/AntiBodyBlock/issues"
+    },
+    {
+        "disableAutoUpdate": false,
+        "name": "NGSP",
+        "author": "KYGAS / Maintainer Narino",
+        "description": "Skill Prediction",
+        "version": "1.2.6",
+        "options": {
+            "niceName": "Skill Prediction",
+            "guiName": "Next-Gen Skill Prediction"
+        },
+        "servers": ["https://raw.githubusercontent.com/OmikamiMiko/NGSP/master/"],
+        "supportUrl": "https://github.com/OmikamiMiko/NGSP/issues",
+        "conflicts": [
+            "skill-prediction",
+            "skill-prediction-master",
+            "skill-prediction-plus",
+            "ngsp-100",
+            "ngsp-100-master",
+            "ngsp-master"
+        ]
+    }
+]
